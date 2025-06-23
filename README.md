@@ -16,6 +16,7 @@ Acknowledgements
 Original Game: 诚亦安 https://www.bilibili.com/video/BV1om421j7Xa
 
 Programming Techniques: 江协科技 https://www.bilibili.com/video/BV13c7kzeEYk
+
 ---
 单键操控小恐龙游戏
 在原作基础上实现了一个按键完成三种操作的创新控制方案
