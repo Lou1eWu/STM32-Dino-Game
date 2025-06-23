@@ -22,8 +22,8 @@ Long press: Crouch
 Double press: Shoot
 
 致谢 | Acknowledgements
-原始游戏：诚亦安
-Original Game: 诚亦安
+原始游戏：诚亦安 https://www.bilibili.com/video/BV1om421j7Xa/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=524737a3d45d77382864a3d46820b38a
+Original Game: 诚亦安 https://www.bilibili.com/video/BV1om421j7Xa/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=524737a3d45d77382864a3d46820b38a
 
 编程技巧：江协科技 https://www.bilibili.com/video/BV13c7kzeEYk/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2893a591339f02a409b553c15265d858
 Programming Techniques: 江协科技 https://www.bilibili.com/video/BV13c7kzeEYk/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2893a591339f02a409b553c15265d858
