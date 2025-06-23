@@ -14,7 +14,7 @@ Long press: Crouch
 Double press: Cheat Mode
 
 Acknowledgements
-=
+-
 Original Game: 诚亦安 https://www.bilibili.com/video/BV1om421j7Xa
 
 Programming Techniques: 江协科技 https://www.bilibili.com/video/BV13c7kzeEYk
@@ -36,7 +36,7 @@ Programming Techniques: 江协科技 https://www.bilibili.com/video/BV13c7kzeEYk
 双击：无敌
 
 致谢
-=
+-
 原始游戏：诚亦安 https://www.bilibili.com/video/BV1om421j7Xa
 
 编程技巧：江协科技 https://www.bilibili.com/video/BV13c7kzeEYk
