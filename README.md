@@ -10,7 +10,9 @@ Key Innovations
 Implemented using state machine and timing algorithms:
 
 Short press: Jump
+
 Long press: Crouch
+
 Double press: Cheat Mode
 
 Acknowledgements
@@ -32,7 +34,9 @@ Programming Techniques: 江协科技 https://www.bilibili.com/video/BV13c7kzeEYk
 通过状态机与时间差算法，实现：
 
 短按：跳跃
+
 长按：下蹲
+
 双击：无敌
 
 致谢
