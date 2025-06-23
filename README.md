@@ -1,4 +1,5 @@
 One-Key Dinosaur Game
+---
 Innovative control scheme using single key for three actions, based on original work
 
 Project Overview
@@ -19,6 +20,7 @@ Programming Techniques: 江协科技 https://www.bilibili.com/video/BV13c7kzeEYk
 
 ---
 单键操控小恐龙游戏
+---
 在原作基础上实现了一个按键完成三种操作的创新控制方案
 
 项目概述
@@ -32,7 +34,10 @@ Programming Techniques: 江协科技 https://www.bilibili.com/video/BV13c7kzeEYk
 长按：下蹲
 双击：无敌
 
+---
+
 致谢
+---
 原始游戏：诚亦安 https://www.bilibili.com/video/BV1om421j7Xa
 
 编程技巧：江协科技 https://www.bilibili.com/video/BV13c7kzeEYk
